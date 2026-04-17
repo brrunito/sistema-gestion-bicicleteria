@@ -17,7 +17,7 @@ Este módulo está enfocado en la trazabilidad de las reparaciones y la atenció
 
 **Características principales:**
 * Registro de ingreso y egreso de bicicletas.
-* Seguimiento del estado de las reparaciones en tiempo real (Pendiente, En proceso, Terminado).
+* Seguimiento del estado de las reparaciones en tiempo real (Pendiente, En proceso, Listo para entregar, Entregado).
 * Base de datos de clientes para agilizar el contacto, mantener el historial técnico y mejorar la fidelización.
 
 ### Capturas del Módulo Taller:
@@ -30,7 +30,6 @@ Este módulo maneja la lógica de negocio, inventario y finanzas.
 
 **Características principales:**
 * Control automatizado de stock de repuestos y bicicletas.
-* Alertas visuales de faltantes.
 * Registro de ventas directas.
 * Control del flujo de caja (ingresos y egresos diarios/mensuales).
 
